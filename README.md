@@ -1,2 +1,4 @@
 # hello-world
-Hello World tutorial
+Welcome to the real world.
+
+Autobot here.  I like Node.js and Coffescript.
